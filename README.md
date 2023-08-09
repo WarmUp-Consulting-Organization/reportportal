@@ -1,3 +1,28 @@
+# RUA Project
+
+PT
+O projeto RUA é uma adaptação do Report Portal, com o objetivo de criar uma versão brasileira alinhada à identidade visual da empresa WarmUP. Este documento tem como finalidade apresentar as principais modificações realizadas no projeto, abordando a tradução para o português, a customização da interface gráfica e a nova identidade visual desenvolvida para se adequar à WarmUP.
+
+Modificações no projeto:
+
+- Tradução para PT-BR
+- Customização da interface gráfica
+- Nova identidade visual para se adequar a WarmUP
+
+Para isso, foi utilizado uma nova imagem Docker para service-ui, e para processo de troca é possível ver neste [documento](replace-image.md).
+
+EN
+RUA is an adaptation of the Report Portal project aimed at making a Brazilian version, with WarmUp being the main responsible party. The project structure remains the same with modifications to its interface and Docker.
+
+Modifications in the project include:
+
+- Translation to PT-BR
+- Customization of the graphical interface
+- New visual identity to align with WarmUP
+
+
+
+
 # [ReportPortal.io](http://ReportPortal.io)
 
 [![Join Slack chat!](https://img.shields.io/badge/slack-join-brightgreen.svg)](https://slack.epmrpp.reportportal.io/)
