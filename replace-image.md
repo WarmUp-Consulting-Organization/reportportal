@@ -19,7 +19,7 @@ docker exec -i <postgres_container_name> psql -U <POSTGRES_USER> -d <database_na
 
 4) Espere o serviço novamente subir e verique as mudanças realizadas.
 
-# English
+## English
 1) Before changing the image, it is recommended that you save the database data in case you wish to restore it later or in the event of a failure.
 - To save the database, execute the following command:
 docker exec <postgres_container_name> pg_dump -U <POSTGRES_USER> <database_name> > backup.sql
